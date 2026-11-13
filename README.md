@@ -310,10 +310,3 @@ Ao terminar (ou ao parar), relatar em pt-BR, curto:
 Conferência por API pública do GitHub (`/repos`, `/issues`, `/pulls?sort=updated&direction=desc`, busca de PRs, `contents`) e HTTP 200 nas URLs finais, em 12/11/2026 entre ~22:05 e 22:18 BRT. O `gh` na box não estava autenticado. Nenhum comentário, fork, issue ou PR foi aberto por esta entrega.
 
 
-## Revisao automatica
-
-CORRIGIR
-
-Verificacao de publicacao: Manifesto Git sem repositório da missão
-
-repo-publicacao [local]: Manifesto Git sem repositório da missão | Evidencia: /home/ttechnology/Documentos/melhorar-github/cronjob/estado/github_oportunidades-contribuicao-e-novos-projetos_2026-11-12_22-18-09_BRT.md.git.json | Acao: Criar e publicar o repositorio GitHub com o commit da missao; confirmar a branch publica
